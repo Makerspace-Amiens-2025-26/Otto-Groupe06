@@ -36,13 +36,12 @@ L’objectif est de développer concrètement nos compétences en électronique,
 
 C’est un projet de groupe. On apprend à se répartir les tâches, à communiquer, à gérer les idées de chacun et à avancer ensemble pour que les différentes parties du robot s'assemblent parfaitement.
 
-- ### Résoudre des problèmes concrets :
+- #### Résoudre des problèmes concrets :
 
 On part d'une base open-source, mais on doit l'améliorer pour gagner des épreuves bien précises (sumo, course, tir à la corde, obstacles). Cela nous force à être créatifs et à trouver des solutions astucieuses quand quelque chose ne fonctionne pas comme prévu.
 
-## Ce qui nous motive : l'esprit du projet
+#### Ce qui nous motive : l'esprit du projet
 
 Travailler sur un robot, c’est stimulant. On a une grande liberté pour imaginer des modifications et rendre notre modèle unique, ce qui nous pousse à nous investir davantage.
 C'est l'occasion de sortir du cadre des cours classiques. On explore de nouvelles technologies comme l'ESP32 et on réfléchit par nous-mêmes à comment intégrer des fonctionnalités innovantes.
 On souhaite documenter notre travail pour que d’autres étudiants puissent s’en inspirer. 
-C’est gratifiant de se dire que nos trouvailles pourraient servir à la communauté du MakerSpace et montrer ce qu’on est capables de réaliser en tant que futurs ingénieurs.
