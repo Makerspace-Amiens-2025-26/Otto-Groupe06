@@ -40,6 +40,9 @@ Ici vous publierez la vidéo de votre projet.
 - Des plans du fonctionnement (même basique ou des éléments séparés)
 - Une conclusion
 - Si en stockage local : <50mo
+## 📹 Vidéo de présentation
+
+[![Voir la vidéo](https://img.youtube.com/vi/UVhzK0dCuy0/maxresdefault.jpg)](https://youtube.com/shorts/UVhzK0dCuy0)
 
 <video src="https://www.youtube.com/shorts/UVhzK0dCuy0" controls title="Title"  style="width: 100%;"></video>
 
