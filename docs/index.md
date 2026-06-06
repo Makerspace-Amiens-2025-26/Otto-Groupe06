@@ -41,6 +41,6 @@ Ici vous publierez la vidéo de votre projet.
 - Une conclusion
 - Si en stockage local : <50mo
 
-<video src="[images/video_otto.mov](https://www.youtube.com/shorts/UVhzK0dCuy0)" controls title="Title"  style="width: 100%;"></video>
+<video src="https://www.youtube.com/shorts/UVhzK0dCuy0" controls title="Title"  style="width: 100%;"></video>
 
 ---
