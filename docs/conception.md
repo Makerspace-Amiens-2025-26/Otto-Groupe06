@@ -12,15 +12,15 @@ Pour passer d’un robot standard à notre propre version  Wall-E, nous avons d�
 
 Plutôt que de surcharger le robot, nous avons opté pour une approche minimaliste et fonctionnelle, où chaque ajout a une utilité précise pour les épreuves de combat.
 
-Plutôt que d'utiliser des fichiers 3D génériques, nous avons modélisé nos propres pièces sur Onshape. L'idée était de garder une ligne épurée tout en intégrant des éléments iconiques du personnage.
+Plutôt que d'utiliser des fichiers 3D génériques, nous avons modélisé nos propres pièces sur Onshape. L'idée était de garder une style épurée tout en intégrant des éléments iconiques du personnage.
 
 #### -La structure : 
-Le corps a été entièrement redessiné pour offrir une silhouette robuste et fidèle à l'esthétique du robot Wall-E, avec une attention particulière portée à la gestion des volumes pour ne pas déséquilibrer le robot.
+On a retravaillé le châssis pour lui donner un look de Wall-E. Notre but était de faire en sorte que le robot garde un équilibre parfait sans changer son esthétique.
 
 #### -Les yeux :
-Ils sont le cœur de l'identité visuelle de notre projet. 
+Ils sont l'élement principale de l'identité visuelle de notre projet. 
 
-En plus de donner vie au robot, ils ont été pensés pour agir comme une protection naturelle au-dessus de sa tête, bloquant les tentatives d'extinction du bouton principal par les adversaires.
+En plus de donner vie au robot, ils ont été pensés pour étre utiliser comme une protection au-dessus de sa tête, bloquant les tentatives d'extinction du bouton principal par les adversaires.
 
 Nous avons ajouté des bras articulés qui ne sont pas là que pour le look .Ces bras ont été conçus pour offrir une amplitude de mouvement efficace.
 
@@ -40,7 +40,7 @@ La partie logicielle est le cœur du projet. Pour que notre robot ne soit pas se
 
 La programmation des déplacements a été un défi technique, surtout lorsqu'on cherche la performance pour les épreuves de vitesse.
 
-Nous avons cherché à pousser les servomoteurs au maximum de leurs capacités. Cela a nécessité des ajustements précis dans le code pour optimiser les cycles de marche et éviter les blocages mécaniques, tout en apprenant à gérer les limites physiques du matériel suite à quelques incidents de parcours.
+Nous avons cherché à pousser les servomoteurs au maximum de leurs capacités. Cela a nécessité des ajustements dans le code pour optimiser les cycles de marche et éviter les blocages mécaniques, tout en apprenant à gérer les limites physiques du matériel suite à quelques incidents de parcours.
 
 Le code est conçu pour être fluide, ce qui est crucial lors des combats pour esquiver ou se repositionner rapidement.Pour piloter le robot, nous avons développé une application dédiée qui communique avec l'ESP32.
 
@@ -50,4 +50,4 @@ L'application permet de basculer facilement entre les différents comportements 
 
 Afin de garantir la meilleure stabilité possible, la personne en charge du codage du robot a également pris en main le développement complet de l'application. Cette centralisation a permis une meilleure cohérence entre les commandes envoyées et la réponse mécanique du robot.
 
-En résumé, le logiciel ne sert pas uniquement à faire bouger le robot ; il sert à traduire nos intentions tactiques en actions concrètes sur le terrain. C’est un travail de précision qui continue d'évoluer au fil de nos tests.
+En résumé, le logiciel ne sert pas juste à faire bouger le robot ; il sert à traduire nos intentions tactiques en actions sur le terrain.
