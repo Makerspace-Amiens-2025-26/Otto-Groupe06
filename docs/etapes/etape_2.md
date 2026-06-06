@@ -57,6 +57,6 @@ Ce guide vous accompagne pas à pas dans l'assemblage mécanique et le câblage 
 
 1. Réunissez délicatement la tête et le corps en veillant à ne coincer aucun fil électrique à l'intérieur.
 2. Clipsez ou vissez la tête sur le corps selon les tolérances de votre modèle Onshape.
-3.**Application de la peinture :** Si vous avez prévu des finitions esthétiques pour accentuer l'effet "Wall-E", appliquez vos couches de peinture avant l'assemblage final des composants électroniques, ou protégez bien les capteurs avant de peindre.
+3. Application de la peinture : Si vous avez prévu des finitions esthétiques pour accentuer l'effet "Wall-E", appliquez vos couches de peinture avant l'assemblage final des composants électroniques, ou protégez bien les capteurs avant de peindre.
 
 Votre robot **Otto-MKS** est maintenant assemblé et prêt à être programmé pour les épreuves de combat et de course !
