@@ -23,12 +23,12 @@ notre robot pour qu’il puisse braver les différentes épreuves qu’il devra 
 Nous avons conçu des fonctionnalités pour transformer un robot standard en un robot, 
 performant  et différencié des autres.
 
-# 1.2 Nos objectifs : apprendre et se faire plaisir
+# 1.2 Nos objectifs :
 
-Le projet Otto-MKS ne se limite pas simplement à monter un kit, il y a un réel objectif derrière; préparer de futur ingénieur.  
+Le projet Otto-MKS ne se limite pas simplement à monter un kit, il y a un réel objectif derrière;nous préparer en tant que futur ingénieur.  
 
 ## Les objectifs pédagogiques
-### Apprendre en faisant :
+### Apprendre en testant :
 
 L’objectif est de développer concrètement nos compétences en électronique, en mécanique et en programmation. On ne se contente pas d'étudier, on manipule, on teste et on ajuste.
 
@@ -40,7 +40,7 @@ C’est un projet de groupe. On apprend à se répartir les tâches, à communiq
 
 On part d'une base open-source, mais on doit l'améliorer pour gagner des épreuves bien précises (sumo, course, tir à la corde, obstacles). Cela nous force à être créatifs et à trouver des solutions astucieuses quand quelque chose ne fonctionne pas comme prévu.
 
-### Ce qui nous motive : l'esprit du projet
+### Ce qui nous motive :
 
 Travailler sur un robot, c’est stimulant. On a une grande liberté pour imaginer des modifications et rendre notre modèle unique, ce qui nous pousse à nous investir davantage.
 C'est l'occasion de sortir du cadre des cours classiques. On explore de nouvelles technologies comme l'ESP32 et on réfléchit par nous-mêmes à comment intégrer des fonctionnalités innovantes.
