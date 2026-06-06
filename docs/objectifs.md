@@ -15,7 +15,7 @@ Ce robot a été développé au départ  à partir des fichiers standards open-s
 de type ESP32 puissant offrant une connectivité Wi-Fi et Bluetooth ainsi qu'une gestion énergétique via une batterie rechargeable par USB-C.
 Pour notre équipe, ce projet constitue une véritable mise en situation technique.
 
-Il ne s'agit pas simplement d'assembler un kit  existant, mais de faire  un cycle complet; en commençant par la  recherche,
+Il ne s'agit pas juste d'assembler un kit  existant, mais de tout faire nous même; en commençant par la  recherche,
 puis la  conception et enfin la  programmation afin d’arriver à un robot capable de se déplacer grâce à une application.
 
 À partir d'une base matérielle commune, notre mission a été de réfléchir à différents moyens pour parvenir à modifier 
