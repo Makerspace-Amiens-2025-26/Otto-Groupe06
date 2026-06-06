@@ -17,6 +17,7 @@ Bienvenue dans la documentation du projet OTTO. Ce site a pour but de fournir to
 {: .warning }
 >Pour intégrer la visualisation de votre projet Onshape, utilisez le site https://modelembedder.net . Activez le partage par lien via l'outil de partage de Onshape. n'oubliez pas d'activer l'option "export". Puis completez l'iframe ci-dessus avec le lien généré par le site https://modelembedder.net. Vous pouvez mettre à jour également le bouton avec le lien de partage de votre modèle.
 
+Nous n'avons pas réussi à utiliser le site modelembedder.net les liens ne fonctionnait pas.
 
 ## À propos du Projet
 
