@@ -11,16 +11,16 @@ Cette section décrit la première étape du processus de fabrication : la prép
 
 ## Liste des Matériaux
 
-| **Microcontrôleur ESP32** | 1 | Carte principale avec Wi-Fi/Bluetooth intégrés pour le pilotage à distance. | [ ] |
-| **Shield d'extension ESP32** | 1 | Carte d'extension pour faciliter le branchement des servomoteurs et capteurs. | [ ] |
-| **Servomoteurs SG90 (9g)** | 6 | 4 pour les jambes/pieds + 2 pour l'articulation des bras Wall-E. | [ ] |
-| **Capteur Ultrason HC-SR04** | 1 | Capteur de distance (les yeux) pour la détection d'obstacles et le mode Sumo. | [ ] |
-| **Batterie LiPo 3.7V** | 1 | Source d'énergie principale du robot. | [ ] |
-| **Module de charge USB-C** | 1 | Pour la recharge sécurisée de la batterie (souvent intégré au shield). | [ ] |
-| **Interrupteur ON/OFF** | 1 | Bouton de coupure générale (placé sous la tête protectrice). | [ ] |
-| **Câbles de prototypage (Dupont)** | 1 lot | Fils Femelle-Femelle pour interconnecter les modules si nécessaire. | [ ] |
-| **Vis de fixation du moteur** | 12 | Diamètre : 2mm Longueur : 8 ou 9 mm .Vous en utilisez 2 par servomoteur. | [ ] |
-| **Vis de l'axe central** | 6 | Diamètre : 2mm Longueur : 4 ou 5 mm .Vous en utilisez 1 par servomoteur. | [ ] |
+| **Microcontrôleur ESP32** | 1 | Carte principale avec Wi-Fi/Bluetooth intégrés pour le pilotage à distance. |
+| **Shield d'extension ESP32** | 1 | Carte d'extension pour faciliter le branchement des servomoteurs et capteurs. | 
+| **Servomoteurs SG90 (9g)** | 6 | 4 pour les jambes/pieds + 2 pour l'articulation des bras Wall-E. | 
+| **Capteur Ultrason HC-SR04** | 1 | Capteur de distance (les yeux) pour la détection d'obstacles et le mode Sumo. | 
+| **Batterie LiPo 3.7V** | 1 | Source d'énergie principale du robot. | 
+| **Module de charge USB-C** | 1 | Pour la recharge sécurisée de la batterie (souvent intégré au shield). |
+| **Interrupteur ON/OFF** | 1 | Bouton de coupure générale (placé sous la tête protectrice). | 
+| **Câbles de prototypage (Dupont)** | 1 lot | Fils Femelle-Femelle pour interconnecter les modules si nécessaire. |
+| **Vis de fixation du moteur** | 12 | Diamètre : 2mm Longueur : 8 ou 9 mm .Vous en utilisez 2 par servomoteur. |
+| **Vis de l'axe central** | 6 | Diamètre : 2mm Longueur : 4 ou 5 mm .Vous en utilisez 1 par servomoteur. | 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
