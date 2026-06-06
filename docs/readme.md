@@ -23,13 +23,6 @@ Bienvenue dans la documentation du projet OTTO. Ce site a pour but de fournir to
 L’objectif principal de ce projet est de concevoir, modifier et programmer une version optimisée du robot open-source Otto-MKS (inspirée de l'esthétique de
 Wall-E) afin de le rendre compétitif pour un tournoi multi-épreuves (sumo, vitesse, obstacles).
 
-
-## Poster
-
-Ici vous publierez le poster de votre projet.
-
-![Poster projet](images/poster.jpg)
-
 ## Vidéo
 
 Ici vous publierez la vidéo de votre projet. 
