@@ -66,4 +66,4 @@ Pour l'impression, nous utilisons du filament **PLA**. Afin de réduire l'emprei
 
 ---
 
-Une fois cette étape terminée, passez à l'[Assemblage](/assemblage).
+Une fois cette étape terminée, passez à l'assemblage
