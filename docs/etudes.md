@@ -10,11 +10,18 @@ title: Études et choix techniques
 ## 2.1. Analyse et recherche :vers notre propre vision du robot
 
 Avant de nous lancer tête baissée dans l'assemblage, nous avons pris le temps d'analyser les différentes options qu’internet pouvait nous offrir.
-Notre objectif était clair, transformer notre robot  pour qu'il soit compétitif sur les différentes épreuves qui nous attendaient, comme le combat de sumo, la course de vitesse, le tir à la corde ou encore le franchissement d'obstacles.
+
+Notre objectif était clair, transformer notre robot  pour qu'il soit compétitif sur les différentes épreuves qui nous attendaient, comme le combat de sumo, la 
+course de vitesse, le tir à la corde ou encore le franchissement d'obstacles.
+
 Nous avons commencé par explorer les designs existants sur Internet. Très vite, une référence commune s'est imposée à nous,  Wall-E. 
+
 Ce petit robot seul dans son monde désolé nous a tous marqués, et nous avions à cœur de donner à notre création cette identité visuelle unique. 
+
 Le problème, c'est que les fichiers 3D disponibles en ligne ne nous convenaient pas,  soit ils ne respectaient pas notre design Wall-E, soit ils étaient impossibles à modifier correctement pour nos différents besoins techniques. 
+
 C’est ce constat qui a fait que nous avons préféré tout concevoir nous-mêmes, du corps jusqu'aux accessoires. 
+
 Pour nous, c'est ça le cœur de l'ingénierie, créer plutôt que de simplement assembler des fichiers tout faits.
 
 ### Répartition des rôles et organisation Pour mener ce projet à bien, nous avons réparti les missions en fonction des forces de chacun :
